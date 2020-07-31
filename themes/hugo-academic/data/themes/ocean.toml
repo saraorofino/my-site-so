@@ -5,13 +5,13 @@ name = "Ocean"
 light = true
 
 # Primary
-primary = "#3f51b5"
+primary = "#006a71"
 
 # Menu
-menu_primary = "#3f51b5" # 500
-menu_text = "#fff"
-menu_text_active = "#8c9eff" # A100
-menu_title = "#fff"
+menu_primary = "#006a71" # 500
+menu_text = "#dfcdc3"
+menu_text_active = "#f3c623" # A100
+menu_title = "#dfcdc3"
 
 # Home sections
 home_section_odd = "rgb(255, 255, 255)"
