@@ -17,16 +17,16 @@ interests:
 - Environmental justice
 name: Sara Orofino
 organizations:
-- name: National Center for Ecological Analysis and Synthesis
-  url: "https://www.nceas.ucsb.edu/"
-role: Ocean Health Index Fellow
+- name: Environmental Market Solutions Lab
+  url: "https://emlab.msi.ucsb.edu/"
+role: Fisheries Data Scientist and Coordinator
 social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'
-#- icon: twitter
-  #icon_pack: fab
-  #link: https://twitter.com/GeorgeCushen
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/slorofino
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/sara-orofino/
@@ -39,6 +39,6 @@ user_groups:
 - Visitors
 ---
 
-Sara Orofino is a recent graduate of the Bren School of Environmental Science & Management at UC Santa Barbara where she specialized in Coastal Marine Resource Management and Environmental Data Science. Her two graduate research areas focused on evaluating strategies for better managing data-poor fisheries in the face of climate change and studying factors that make communities more resilient to natural disasters. Currently, she is working as an Ocean Health Index Fellow with the National Center for Ecological Analysis and Synthesis.  
+Sara Orofino is a recent graduate of the Bren School of Environmental Science & Management at UC Santa Barbara where she specialized in Coastal Marine Resource Management and Environmental Data Science. Her two graduate research areas focused on evaluating strategies for better managing data-poor fisheries in the face of climate change and studying factors that make communities more resilient to natural disasters. Currently, she is working as a Fisheries Data Scientist at the Environmental Market Solutions Lab at UC Santa Barbara.  
 
 
