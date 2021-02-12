@@ -1,0 +1,19 @@
+---
+title: Ocean Health Index Palmyra Atoll
+author: 'Sara Orofino'
+date: 'August 2020'
+slug: ohi_palmyra
+categories: []
+tags:
+  - spatial
+summary: 'Ocean Health Index Assessment completed for the Four Site Pacific Transect Partnership.'
+authors: []
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+---
+
+
