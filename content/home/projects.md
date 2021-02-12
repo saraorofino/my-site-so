@@ -26,12 +26,12 @@ subtitle = ""
     tag = "*"
   
   [[content.filter_button]]
-    name = "Deep Learning"
-    tag = "Deep Learning"
+    name = "Statistical Analysis"
+    tag = "data"
   
   [[content.filter_button]]
-    name = "Other"
-    tag = "Demo"
+    name = "Spatial Analysis"
+    tag = "spatial"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -42,10 +42,10 @@ subtitle = ""
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view = 3
+  view = 5
 
   # For Showcase view, flip alternate rows?
-  flip_alt_rows = false
+  flip_alt_rows = true
 
 [design.background]
   # Apply a background color, gradient, or image.

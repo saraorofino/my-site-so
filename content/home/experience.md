@@ -18,12 +18,28 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Ocean Index Fellow"
+  title = "Fisheries Data Scientist and Coordinator"
+  company = "Environmental Market Solutions Lab"
+  company_url = ""
+  location = "Santa Barbara, California"
+  date_start = "2020-09-01"
+  date_end = ""
+  description = """Provide data science support for international research projects using data from Global Fishing Watch. Managing projects on bycatch risk in longline fisheries and the value of transparency in global fisheries.   
+  
+  Responsibilities include:
+  
+  * Project management
+  * Data analysis in R and SQL
+  * Data visualization 
+  """
+
+[[experience]]
+  title = "Ocean Health Index Fellow"
   company = "National Center for Ecological Analysis and Synthesis"
   company_url = ""
   location = "Santa Barbara, California"
   date_start = "2020-04-01"
-  date_end = ""
+  date_end = "2020-08-31"
   description = """Leading an Ocean Health Index assessment for Palmyra Atoll in collaboration with The Nature Conservancy. The Ocean Health Index is a data-driven, quantitative framework for assessing human-derived ocean benefits. 
   
   Responsibilities include:
