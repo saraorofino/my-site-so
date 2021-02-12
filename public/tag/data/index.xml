@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>data | Sara Orofino</title>
+    <link>/tag/data/</link>
+      <atom:link href="/tag/data/index.xml" rel="self" type="application/rss+xml" />
+    <description>data</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>data</title>
+      <link>/tag/data/</link>
+    </image>
+    
+    <item>
+      <title>Evaluating Adaptive Management Strategies for Climate Resilient Fisheries</title>
+      <link>/project/fishe/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/project/fishe/</guid>
+      <description>
+
+
+
+</description>
+    </item>
+    
+  </channel>
+</rss>
