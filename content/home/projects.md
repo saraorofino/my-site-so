@@ -26,12 +26,12 @@ subtitle = ""
     tag = "*"
   
   [[content.filter_button]]
-    name = "Statistical Analysis"
-    tag = "data"
+    name = "Marine Projects"
+    tag = "marine"
   
   [[content.filter_button]]
-    name = "Spatial Analysis"
-    tag = "spatial"
+    name = "Climate Projects"
+    tag = "climate"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
