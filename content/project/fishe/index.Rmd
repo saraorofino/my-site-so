@@ -1,0 +1,17 @@
+---
+title: Evaluating Adaptive Management Strategies for Climate Resilient Fisheries
+author: 'Sara Orofino'
+date: 'June 2020'
+slug: fishe
+categories: []
+tags:
+  - data
+authors: []
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+---
+
